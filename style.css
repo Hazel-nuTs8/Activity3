@@ -1,0 +1,20 @@
+/* styles.css */
+
+body {
+    font-family: Verdana; color #80080; font-size: 14px; font-style: italic;
+}
+
+.highlight-word-color{
+    color: #800080;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.footer {
+    font-family: Georgia, serif; color: #040720; font-size: 14px; font-style: italic;
+    color: #040720;
+    font-size: 14px;
+    font-style: italic;
+}
